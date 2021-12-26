@@ -14,6 +14,8 @@ Masking: a new perspective of noisy supervision https://github.com/bhanML/Maskin
 
 Memorization effect in learning from corrupted labels:  https://github.com/AutoML-Research/S2E   and https://arxiv.org/pdf/1911.02377.pdf
 
+Self_supervised denoising techniques :neighbor2neighbor  https://github.com/TaoHuang2018/Neighbor2Neighbor
+
 
 
 
